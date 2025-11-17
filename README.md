@@ -6,7 +6,6 @@ a comment with voting checkboxes:
 ```markdown
 * [ ] @encukou
 * [ ] @erlend-aasland
-* [ ] @mdboom
 * [ ] @serhiy-storchaka
 * [ ] @vstinner
 * [ ] @zooba
